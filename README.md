@@ -21,7 +21,13 @@ The dataset is available in .csv and .xlxs format. Within the dataset there are 
 
 | **Variable** | **Variable Name** | **Measurement Unit** | **Allowed Values** | **Definition** |
 | --- | --- | --- | --- | --- |
-
+| **Library** | **Library** | --- | **Plain Text** | **Library names, including TRL branches, all locations, and online events** |
+| **Event Year** | **Event Year** | --- | **Numerical** | **Year in which the event occured** |
+| **Event Month** | **Event Month** | **Time** | **Numerical** | **Month in which the event occured** |
+| **Category** | **Category** | --- | **Plain Text** | **Type of event/program** |
+| **Age Group** | **Age Group** | --- | **Plain Text** | **Specific age group demographic of event's target audience**  |
+| **Events** | **Events** | --- | **Numerical** | **Number of events** |
+| **Attendance** | **Attendance** | --- | **Numerical** | **Number of people attending events** |
 
 
 
