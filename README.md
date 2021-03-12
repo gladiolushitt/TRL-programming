@@ -8,28 +8,27 @@ The dataset is available in .csv and .xlxs format. Within the dataset there are 
 
 - [Naming](#naming)
 - [Data Dictionary](#datadictionary)
-- [Metadata](#metadata)
-- [Security](#security)
 - [Contact](#contact)
 
 ## Naming
 
-
+Naming convention follows the original convention of the raw dataset, Timberland_Regional_Library_Programs, with the addition of "Monthly" to denote the main organization difference: Monthly_Timberland_Regional_Library_Programs 
 
 ## Data Dictionary
 
 
 | **Variable** | **Variable Name** | **Measurement Unit** | **Allowed Values** | **Definition** |
 | --- | --- | --- | --- | --- |
-| **Library** | **Library** | --- | **Plain Text** | **Library names, including TRL branches, all locations, and online events** |
-| **Event Year** | **Event Year** | --- | **Numerical** | **Year in which the event occured** |
+| **Library** | **Library** | **N/A** | **Plain Text** | **Library names, including TRL branches, all locations, and online events** |
+| **Event Year** | **Event Year** | **N/A** | **Numerical** | **Year in which the event occured** |
 | **Event Month** | **Event Month** | **Time** | **Numerical** | **Month in which the event occured** |
-| **Category** | **Category** | --- | **Plain Text** | **Type of event/program** |
-| **Age Group** | **Age Group** | --- | **Plain Text** | **Specific age group demographic of event's target audience**  |
-| **Events** | **Events** | --- | **Numerical** | **Number of events** |
-| **Attendance** | **Attendance** | --- | **Numerical** | **Number of people attending events** |
+| **Category** | **Category** | **N/A** | **Plain Text** | **Type of event/program** |
+| **Age Group** | **Age Group** | **N/A** | **Plain Text** | **Specific age group demographic of event's target audience**  |
+| **Events** | **Events** | **N/A** | **Numerical** | **Number of events** |
+| **Attendance** | **Attendance** | **N/A** | **Numerical** | **Number of people attending events** |
 
 
+## Contact
 
-
+Gladys Hitt at hittg@uw.edu
 
