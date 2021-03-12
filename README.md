@@ -17,8 +17,8 @@ Naming convention follows the original convention of the raw dataset, Timberland
 ## Data Dictionary
 
 
-| **Variable** | **Variable Name** | **Measurement Unit** | **Allowed Values** | **Definition** |
-| --- | --- | --- | --- | --- |
+| **Variable** | **Variable Name** | **Allowed Values** | **Definition** |
+| --- | --- | --- | --- |
 | **Library** | **Library** | **Plain Text** | **Library names, including TRL branches, all locations, and online events** |
 | **Event Year** | **Event Year** | **Numerical** | **Year in which the event occured** |
 | **Event Month** | **Event Month** | **Numerical** | **Month in which the event occured** |
